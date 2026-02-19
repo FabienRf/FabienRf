@@ -6,13 +6,6 @@
 
 ---
 
-## 👨‍💻 Who am I?
-
-I'm a computer science student passionate about learning, building, and improving every day.  
-I aim to become adaptable and capable of working in different environments and with diverse technologies.
-
----
-
 ## 🔭 What I'm currently working on
 
 - Expanding my technical knowledge  
