@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Fabien 👋
 
-<!--
-**FabienRf/FabienRf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+🚀 Curious learner, constantly improving  
+💡 Always exploring new technologies and challenges  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Who am I?
+
+I'm a computer science student passionate about learning, building, and improving every day.  
+I aim to become adaptable and capable of working in different environments and with diverse technologies.
+
+---
+
+## 🔭 What I'm currently working on
+
+- Expanding my technical knowledge  
+- Practicing problem-solving  
+- Building projects to strengthen my skills  
+- Learning as much as possible to stay adaptable  
+
+---
+
+## 🛠️ Tools & Technologies
+
+I'm currently exploring and learning different tools and languages.  
+My goal is to understand the fundamentals deeply so I can quickly adapt to any tech stack.
+
+Always learning. Always improving.
+
+---
+
+## 📫 How to reach me
+
+You can connect with me on LinkedIn.
+
+---
+
+## ⚡ A bit more about me
+
+Outside of coding:
+
+- 🏋️ Strength sports enthusiast (Powerlifting / Strongman)
+- 🧗 Bouldering climber
+- 🎮 Video games enjoyer
+- 📚 Manga & anime fan
+- 😴 Sleep appreciator
+
+---
+
+> "Keep building. Keep learning. Stay consistent."
